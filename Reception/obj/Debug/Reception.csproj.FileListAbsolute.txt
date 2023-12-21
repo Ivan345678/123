@@ -1,0 +1,109 @@
+D:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.csprojAssemblyReference.cache
+D:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\MainWindow.g.cs
+D:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\ListPage.g.cs
+D:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\LoginPage.g.cs
+D:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\MainPage.g.cs
+D:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\App.g.cs
+D:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception_Content.g.cs
+D:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception_MarkupCompile.cache
+D:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception_MarkupCompile.lref
+D:\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\Reception.exe.config
+D:\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\Reception.exe
+D:\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\Reception.pdb
+D:\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\EntityFramework.dll
+D:\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\EntityFramework.SqlServer.dll
+D:\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\EntityFramework.xml
+D:\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\EntityFramework.SqlServer.xml
+D:\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\ru\EntityFramework.resources.dll
+D:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\MainWindow.baml
+D:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\ListPage.baml
+D:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\LoginPage.baml
+D:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\MainPage.baml
+D:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.g.resources
+D:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.Properties.Resources.resources
+D:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.csproj.GenerateResource.cache
+D:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.csproj.CopyComplete
+D:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.exe
+D:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.pdb
+E:\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\Reception.exe.config
+E:\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\Reception.exe
+E:\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\Reception.pdb
+E:\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\EntityFramework.dll
+E:\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\EntityFramework.SqlServer.dll
+E:\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\EntityFramework.xml
+E:\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\EntityFramework.SqlServer.xml
+E:\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\ru\EntityFramework.resources.dll
+E:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.csproj.AssemblyReference.cache
+E:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\MainWindow.g.cs
+E:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\ListPage.g.cs
+E:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\LoginPage.g.cs
+E:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\MainPage.g.cs
+E:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\App.g.cs
+E:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception_Content.g.cs
+E:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception_MarkupCompile.cache
+E:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception_MarkupCompile.lref
+E:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\MainWindow.baml
+E:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\ListPage.baml
+E:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\LoginPage.baml
+E:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\MainPage.baml
+E:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.g.resources
+E:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.Properties.Resources.resources
+E:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.csproj.GenerateResource.cache
+E:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.csproj.CoreCompileInputs.cache
+E:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.exe
+E:\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.pdb
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.csprojAssemblyReference.cache
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\MainWindow.g.cs
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\ListPage.g.cs
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\MainPage.g.cs
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\App.g.cs
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception_Content.g.cs
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception_MarkupCompile.cache
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception_MarkupCompile.lref
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.exe
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.pdb
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\Reception.exe.config
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\Reception.exe
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\Reception.pdb
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\EntityFramework.dll
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\EntityFramework.xml
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\MainWindow.baml
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\ListPage.baml
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\LoginPage.baml
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\MainPage.baml
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.g.resources
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.Properties.Resources.resources
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.csproj.GenerateResource.cache
+C:\Users\Иван\Desktop\Новая папка\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.csproj.CopyComplete
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\MainWindow.g.cs
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\ListPage.g.cs
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\MainPage.g.cs
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\App.g.cs
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception_Content.g.cs
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception_MarkupCompile.cache
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception_MarkupCompile.lref
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.exe
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.pdb
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\Reception.exe.config
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\Reception.exe
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\Reception.pdb
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\EntityFramework.dll
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\EntityFramework.xml
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\MainWindow.baml
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\ListPage.baml
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\LoginPage.baml
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Pages\MainPage.baml
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.g.resources
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.Properties.Resources.resources
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.csproj.GenerateResource.cache
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\практики для меня\Моё приложение 2\Reception\Reception\obj\Debug\Reception.csproj.CopyComplete
